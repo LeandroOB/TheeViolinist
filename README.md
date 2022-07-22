@@ -3,6 +3,7 @@
 
 - 🔭 Eu trabalho atualmente com otimização
 - 🌱 Estou atualmente aprendendo java e shell script
+##
 
 
 <div align="center">
